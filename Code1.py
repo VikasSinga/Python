@@ -1,2 +1,11 @@
-a=10
-print(a)
+#hi
+# print("Hello"+" "+ input("what is your name ")+"!")
+# name = input("what is your name ")
+# print (name)
+# print (len(input("......")))
+print("Welcome to the Band Name Generator.")
+City_Name = input("what is  the name of the city you grew up in?\n")
+# print(City_Name)
+Pet_Name=input("What's your pet's name?\n")
+# print(Pet_Name)
+print("Your band name could be "+City_Name+" "+Pet_Name)
